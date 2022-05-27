@@ -8,6 +8,8 @@ Ways to get it going:
 4) There you will get a local host link where you can ctrl+click to visit the website and ta-da you are in!!
   
 Architecture and code explanation done in : https://www.youtube.com/watch?v=1k7XtJUkbx4
+Deployed website link: https://bingewithbing.herokuapp.com/
+
 
 
   
